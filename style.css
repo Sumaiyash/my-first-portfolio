@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.hello{
+    color: rgb(143, 108, 66);
+}
+.beautiful{
+    color: rgb(236, 185, 118);
+}
+.sumu{
+    color: rgb(185, 71, 94);
+}
+.stnd{
+    color: rgb(14, 117, 131);
+}
+.web{
+    color: darkmagenta;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.anchor{
+    background-color: rgb(191, 206, 136);
+    color: rgb(134, 180, 180);
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.paragraph{
+    background-image: linear-gradient(gray,white);
+    padding: 50px 80px;
+    text-align: center;
+}
+.iam{
+    padding: 5px 90px;
+    color: rgb(30, 54, 30);
+    background-image: linear-gradient(rgb(111, 111, 214),rgb(204, 129, 164));
+    text-align: center;
+}
+.img{
+    padding: 10px ;
+    height: 80%;
+}
