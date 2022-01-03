@@ -1,5 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(rgb(233, 208, 233),rgb(106, 106, 165));
+    border:10px solid black;
+    margin: 0%;
 }
 h1{
     font-size: 60px;
