@@ -8,19 +8,33 @@ h1{
     font-size: 60px;
 }
 .hello{
-    color: rgb(143, 108, 66);
+    color: rgb(92, 8, 8);
+    text-align: center;
+    font-size: 80px;
 }
 .beautiful{
-    color: rgb(236, 185, 118);
+    color: rgb(119, 52, 89);
+    text-shadow:5px 5px rgb(11, 47, 58) ;
+}
+h3{
+    color: rgb(68, 6, 44);
+    text-shadow:3px 3px rgb(14, 117, 131);
+    font-size: 40px;
 }
 .sumu{
     color: rgb(185, 71, 94);
+    font-size: 20px;
+    text-shadow: 5px 5px rgba(214, 76, 76, 0.295);
 }
 .stnd{
     color: rgb(14, 117, 131);
 }
 .web{
     color: darkmagenta;
+}
+.hr{
+
+    border: 5px solid rgb(31, 9, 83);
 }
 section{
     display: flex;
@@ -35,22 +49,30 @@ section{
     width: 100%;
 }
 .anchor{
-    background-color: rgb(191, 206, 136);
-    color: rgb(134, 180, 180);
-    padding: 10px 30px;
+background-image: linear-gradient(rgb(101, 216, 236), rgb(129, 47, 47));
+    color: rgb(81, 7, 177);
+    padding: 10px 50px;
     text-decoration: none;
     border-radius: 10px;
+    font-size: 20px;
 }
 .paragraph{
     background-image: linear-gradient(gray,white);
     padding: 50px 80px;
     text-align: center;
+    box-shadow: 10px 10px 5px gray;
+    border-radius: 5px;
 }
 .iam{
     padding: 5px 90px;
     color: rgb(30, 54, 30);
-    background-image: linear-gradient(rgb(111, 111, 214),rgb(204, 129, 164));
+    background-image: linear-gradient(pink, rgb(147, 167, 179));
     text-align: center;
+    border-radius: 10px;
+}
+#cute{
+    font-size: 40px;
+    color: rgb(80, 4, 57);
 }
 .img{
     padding: 10px ;
@@ -60,6 +82,28 @@ section{
     width: 50%;
 }
 .a{
-    height: 50%;
-    width: 50;
+    height: 89%;
+    width: 90%;
+}
+.top-banner{
+    background-image:url(top.png) ;
+    background-repeat: no-repeat;
+}
+.simple{
+    padding: 70px 80px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(179, 19, 139),rgb(71, 131, 71));
+    font-size: 20px;
+
+}
+.dream{
+    font: 25px;
+    text-align: center;
+    color: rgb(119, 52, 89);
+    text-shadow: 3px 4px navajowhite;
+}
+.middle-banner{
+    background-image: url(me.png);
+    background-position-x: right;
+    background-repeat: no-repeat;
 }
