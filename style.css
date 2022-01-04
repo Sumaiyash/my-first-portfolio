@@ -113,3 +113,9 @@ background-image: linear-gradient(rgb(101, 216, 236), rgb(129, 47, 47));
 .flexible-container{
     display: flex;
 }
+.experience{
+    font-size: 80px;
+    color: rgb(145, 43, 136);
+    text-align: center;
+    
+}
