@@ -109,6 +109,17 @@ background-image: linear-gradient(rgb(101, 216, 236), rgb(129, 47, 47));
 }
 .baby{
     width: 50%;
+    padding: 20px 15px;
+    border-radius: 25px;
+    background-image: linear-gradient(rgb(136, 74, 74), rgb(158, 158, 119));
+    text-align: center;
+}
+.stack{
+    width: 50%;
+    padding: 20px 15px;
+    border-radius: 25px;
+    background-image: linear-gradient(rgb(109, 136, 74), rgb(158, 119, 146));
+    text-align: center;
 }
 .flexible-container{
     display: flex;
