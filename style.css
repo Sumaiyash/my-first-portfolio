@@ -107,3 +107,9 @@ background-image: linear-gradient(rgb(101, 216, 236), rgb(129, 47, 47));
     background-position-x: right;
     background-repeat: no-repeat;
 }
+.baby{
+    width: 50%;
+}
+.flexible-container{
+    display: flex;
+}
